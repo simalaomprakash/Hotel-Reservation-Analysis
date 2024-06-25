@@ -31,6 +31,10 @@ The dataset includes the following columns:
 - Understanding lead times helps in anticipating booking behavior.
 - Market segment analysis reveals which segments are most lucrative.
 
+## Presentation
+
+For a detailed presentation of this analysis, please visit the following [LinkedIn post](https://www.linkedin.com/posts/simalaomprakash_dataanalysis-sql-internship-activity-7211213869686398977-ItsX?utm_source=share&utm_medium=member_desktop).
+
 ## Conclusion
 
 This project provides a comprehensive analysis of hotel reservation data using SQL, offering valuable insights to enhance decision-making and improve guest experiences. Further analysis could involve guest feedback and predictive modeling to forecast booking trends.
